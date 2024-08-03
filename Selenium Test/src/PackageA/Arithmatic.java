@@ -14,7 +14,7 @@ public class Arithmatic {
 	{
 		int z;
 		z=x+y;
-		System.err.println("sub result is"+z);
+		System.out.println("sub result is"+z);
 		return z;
 	}
 	
